@@ -1,0 +1,126 @@
+
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position:relative;
+	
+}
+
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: 'Amatic SC', cursive;
+margin-left: 10px;
+font-size: 80px;
+text-align: center;
+
+
+}
+
+h2{
+font-family: 'Amatic SC', cursive;
+margin-left: 10px;
+font-size: 25px;
+text-align: left;
+text-shadow: thistle;
+
+
+}
+
+h3{
+font-family: 'Amatic SC', cursive;
+margin-left: 10px;
+font-size: 25px;
+text-align: left;
+text-shadow: thistle;
+
+}
+
+h4{
+font-family: 'Amatic SC', cursive;
+margin-left: 10px;
+font-size: 35px;
+font-style: bold;
+font color: grey;
+text-align: left;
+
+}
+
+
+header{
+
+	width:1000px;
+	height:100px;
+	background color: thistle;
+}
+
+nav {
+    width:1000px;
+    height: 89px;
+    background-color: thistle;
+    border-radius:10px;
+    
+}
+
+ul{
+margin: auto;
+padding-top: 2px
+border-radius:10px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 6px;
+	background-color: lightgreen;
+	margin:5px;
+	border-radius:10px;
+	box-shadow: 0 0 10px green inset;
+}
+
+section{
+	width: 1050px;
+	background-color: pink;
+	height:700px;
+	float:left;
+	margin-top: 20px;
+	border-radius:10px;
+}
+
+footer{
+
+	width: 1000px;
+	height:40px;
+	background-color:lightgreen;
+	float: left;
+	margin-top: 40px;
+	border-radius:10px;
+
+}
+
+p{
+	font size: 30px;
+	line-height: 8px;
+	padding: 3px;
+	text align:left;
+}
+
+
+
+/*clases*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{widows: 970px}
+.menu:link {padding: 7px; color: white; text-decoration:none;}
+.menu:visited{padding: 7px;color: white; text-decoration:none;}
+.menu:hover{padding: 7px;color: white; text-decoration:none;text-shadow: 0 0 5px white}
+.menu:active{padding: 7px;color: white; text-decoration:none;}
+
+/*SEUDO CLASES*/
+
